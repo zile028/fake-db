@@ -1,0 +1,604 @@
+{
+    "results": [
+        {
+            "category": "Animals",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "What was the name of the Ethiopian Wolf before they knew it was related to wolves?",
+            "correct_answer": "Simien Jackel",
+            "incorrect_answers": [
+                "Ethiopian Coyote",
+                "Amharic Fox",
+                "Canis Simiensis"
+            ]
+        },
+        {
+            "category": "Board Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In a standard game of Monopoly, what colour are the two cheapest properties?",
+            "correct_answer": "Brown",
+            "incorrect_answers": [
+                "Green",
+                "Yellow",
+                "Blue"
+            ]
+        },
+        {
+            "category": "History",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which of these countries was sea charted in 1500 by the Portuguese maritime explorations?",
+            "correct_answer": "Brazil",
+            "incorrect_answers": [
+                "India",
+                "Mozambique",
+                "Madagascar"
+            ]
+        },
+        {
+            "category": "Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Who was the mascot of SEGA before &quot;Sonic the Hedgehog&quot;?",
+            "correct_answer": "Alex Kidd",
+            "incorrect_answers": [
+                "Opa Opa",
+                "NiGHTS",
+                "Ristar"
+            ]
+        },
+        {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In the video-game franchise Kingdom Hearts, the main protagonist, carries a weapon with what shape?",
+            "correct_answer": "Key",
+            "incorrect_answers": [
+                "Sword",
+                "Pen",
+                "Cellphone"
+            ]
+        },
+        {
+            "category": "History",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which of his six wives was Henry VIII married to the longest?",
+            "correct_answer": "Catherine of Aragon",
+            "incorrect_answers": [
+                "Anne Boleyn",
+                "Jane Seymour",
+                "Catherine Parr"
+            ]
+        },
+        {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the name of the Jewish New Year?",
+            "correct_answer": "Rosh Hashanah",
+            "incorrect_answers": [
+                "Elul",
+                "New Year",
+                "Succoss"
+            ]
+        },
+        {
+            "category": "History",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which infamous European traitor was known as &quot;the last person to enter Parliament with honest intentions&quot;?",
+            "correct_answer": "Guy Fawkes",
+            "incorrect_answers": [
+                "Robert Catesby",
+                "Francis Tresham",
+                "Everard Digby"
+            ]
+        },
+        {
+            "category": "Television",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Who was the star of the TV series &quot;24&quot;?",
+            "correct_answer": "Kiefer Sutherland",
+            "incorrect_answers": [
+                "Kevin Bacon",
+                "Hugh Laurie",
+                "Rob Lowe"
+            ]
+        },
+        {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "What year was Queen Elizabeth II born?",
+            "correct_answer": "1926",
+            "incorrect_answers": [
+                "1923",
+                "1929",
+                "1930"
+            ]
+        },
+        {
+            "category": "Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In the 2002 video game &quot;Kingdom Hearts&quot;, how many Keyblades are usable?",
+            "correct_answer": "18",
+            "incorrect_answers": [
+                "13",
+                "16",
+                "15"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Where did the dog breed &quot;Chihuahua&quot; originate?",
+            "correct_answer": "Mexico",
+            "incorrect_answers": [
+                "France",
+                "Spain",
+                "Russia"
+            ]
+        },
+        {
+            "category": "Board Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which of these games includes the phrase &quot;Do not pass Go, do not collect $200&quot;?",
+            "correct_answer": "Monopoly",
+            "incorrect_answers": [
+                "Pay Day",
+                "Cluedo",
+                "Coppit"
+            ]
+        },
+        {
+            "category": "Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What two characters from the game Undertale are never in a relationship or not related?",
+            "correct_answer": "Frisk &amp; Chara",
+            "incorrect_answers": [
+                "Sans &amp; Papyrus",
+                "Toriel &amp; Asgore",
+                "Alphys &amp; Undyne"
+            ]
+        },
+        {
+            "category": "Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which of the following characters were considered for inclusion in Super Smash Bros. Melee?",
+            "correct_answer": "Lucas",
+            "incorrect_answers": [
+                "Mega Man",
+                "Meta Knight",
+                "Diddy Kong"
+            ]
+        },
+        {
+            "category": "Vehicles",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What do the 4 Rings in Audi&#039;s Logo represent?",
+            "correct_answer": "Previously independent automobile manufacturers",
+            "incorrect_answers": [
+                "States in which Audi makes the most sales",
+                "Main cities vital to Audi",
+                "Countries in which Audi makes the most sales"
+            ]
+        },
+        {
+            "category": "Books",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "The novel &quot;Jane Eyre&quot; was written by what author? ",
+            "correct_answer": "Charlotte Bront&euml;",
+            "incorrect_answers": [
+                "Emily Bront&euml;",
+                "Jane Austen",
+                "Louisa May Alcott"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the Capital of the United States?",
+            "correct_answer": "Washington, D.C.",
+            "incorrect_answers": [
+                "Los Angelas, CA",
+                "New York City, NY",
+                "Houston, TX"
+            ]
+        },
+        {
+            "category": "Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In the game Nuclear Throne, what character is only usable in a play through with Melting?",
+            "correct_answer": "Skeleton",
+            "incorrect_answers": [
+                "Frog",
+                "Horror",
+                "Plant"
+            ]
+        },
+        {
+            "category": "Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "The protagonist in the game &quot;Cave Story&quot; is named",
+            "correct_answer": "Quote",
+            "incorrect_answers": [
+                "Kazuma",
+                "Curly",
+                "Arthur"
+            ]
+        },
+        {
+            "category": "History",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "The Hagia Sophia was commissioned by which emperor of the Byzantine Empire?",
+            "correct_answer": "Justinian I",
+            "incorrect_answers": [
+                "Constantine IV",
+                "Arcadius",
+                "Theodosius the Great"
+            ]
+        },
+        {
+            "category": "Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the name of the main character in &quot;Life is Strange&quot;?",
+            "correct_answer": "Maxine Caulfield",
+            "incorrect_answers": [
+                "Victoria Chase",
+                "Stella Hill",
+                "Chloe Price"
+            ]
+        },
+        {
+            "category": "Television",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In the Netflix show, Stranger Things, what song would Will sing to himself as he was missing?",
+            "correct_answer": "Should I Stay or Should I Go?",
+            "incorrect_answers": [
+                "Love Will Tear Us Apart",
+                "This Charming Man",
+                "Africa"
+            ]
+        },
+        {
+            "category": "Computers",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": ".rs is the top-level domain for what country?",
+            "correct_answer": "Serbia",
+            "incorrect_answers": [
+                "Romania",
+                "Russia",
+                "Rwanda"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "What is the second-largest city in Lithuania?",
+            "correct_answer": "Kaunas",
+            "incorrect_answers": [
+                "Panev\u0117\u017eys",
+                "Vilnius",
+                "Klaip\u0117da"
+            ]
+        },
+        {
+            "category": "Comics",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "In what year did the first &quot;The Walking Dead&quot; comic come out?",
+            "correct_answer": "2003",
+            "incorrect_answers": [
+                "2001",
+                "2006",
+                "1999"
+            ]
+        },
+        {
+            "category": "Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What minimum level in the Defence skill is needed to equip Dragon Armour in the MMO RuneScape?",
+            "correct_answer": "60",
+            "incorrect_answers": [
+                "65",
+                "55",
+                "70"
+            ]
+        },
+        {
+            "category": "Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "On the 6th of June 2006, what was the name of the infamous glitch that occurred in the MMO RuneScape?",
+            "correct_answer": "The Falador Massacre",
+            "incorrect_answers": [
+                "Noclip glitch",
+                "Party-hat Duplication Glitch",
+                "TzHaar Massacre"
+            ]
+        },
+        {
+            "category": "Japanese Anime & Manga",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which anime did Seiji Kishi NOT direct?",
+            "correct_answer": "Another",
+            "incorrect_answers": [
+                "Humanity Has Declined",
+                "Assassination Classroom",
+                "Danganronpa: The Animation"
+            ]
+        },
+        {
+            "category": "Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In &quot;Call of Duty: Black Ops III&quot; Zombies, what does completing all the main easter eggs reward you with?",
+            "correct_answer": "1,000,000 XP",
+            "incorrect_answers": [
+                "Juggernog at the start of each game",
+                "50 Liquid Diviniums",
+                "All three options."
+            ]
+        },
+        {
+            "category": "Film",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In the &quot;Jurassic Park&quot; universe, what is the name of the island that contains InGen&#039;s Site B?",
+            "correct_answer": "Isla Sorna",
+            "incorrect_answers": [
+                "Isla Nublar",
+                "Isla Pena",
+                "Isla Muerta"
+            ]
+        },
+        {
+            "category": "Cartoon & Animations",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which Hanna-Barbera cartoon character travelled with a canine companion named Beegle Beagle?",
+            "correct_answer": "Grape Ape",
+            "incorrect_answers": [
+                "Boss Gator",
+                "Wally Gator",
+                "Yogi Bear"
+            ]
+        },
+        {
+            "category": "Books",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In &quot;Little Women&quot;, which of the March sisters married Laurie?",
+            "correct_answer": "Amy",
+            "incorrect_answers": [
+                "Beth",
+                "Jo",
+                "Meg"
+            ]
+        },
+        {
+            "category": "Comics",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which &quot;Green Arrow&quot; sidekick commonly wears a baseball cap?",
+            "correct_answer": "Roy Harper",
+            "incorrect_answers": [
+                "Black Canary",
+                "Emiko Queen",
+                "Dick Grayson"
+            ]
+        },
+        {
+            "category": "Television",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In &quot;Star Trek: Voyager&quot;, which episode did Voyager establish real-time communication with Starfleet Headquarters?",
+            "correct_answer": "Pathfinder",
+            "incorrect_answers": [
+                "Message In A Bottle",
+                "Someone To Watch Over Me",
+                "Counterpoint"
+            ]
+        },
+        {
+            "category": "Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In Grand Theft Auto: V, what wanted level does the player receive if they enter Zancudo Army Base north of Los Santos?",
+            "correct_answer": "4",
+            "incorrect_answers": [
+                "3",
+                "5",
+                "1"
+            ]
+        },
+        {
+            "category": "Film",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which actor plays the character &quot;Tommy Jarvis&quot; in &quot;Friday the 13th: The Final Chapter&quot; (1984)?",
+            "correct_answer": "Corey Feldman",
+            "incorrect_answers": [
+                "Macaulay Culkin",
+                "Mel Gibson",
+                "Mark Hamill"
+            ]
+        },
+        {
+            "category": "Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "The band Muse released their first album, Showbiz, in what year?",
+            "correct_answer": "1999",
+            "incorrect_answers": [
+                "1998",
+                "2000",
+                "2001"
+            ]
+        },
+        {
+            "category": "Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In the Halo series, which era of SPARTAN is Master Chief? ",
+            "correct_answer": "SPARTAN-II",
+            "incorrect_answers": [
+                "SPARTAN-I",
+                "SPARTAN-III",
+                "SPARTAN-IV"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which car manufacturer won the 2017 24 Hours of Le Mans?",
+            "correct_answer": "Porsche",
+            "incorrect_answers": [
+                "Toyota",
+                "Audi",
+                "Chevrolet"
+            ]
+        },
+        {
+            "category": "Animals",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Which of these is a colony of polyps and not a jellyfish?",
+            "correct_answer": "Portuguese Man-of-War",
+            "incorrect_answers": [
+                "Sea Wasp",
+                "Irukandji",
+                "Sea Nettle"
+            ]
+        },
+        {
+            "category": "Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which of the following Pokemon Types was present in the original games, Red and Blue?",
+            "correct_answer": "Ice",
+            "incorrect_answers": [
+                "Steel",
+                "Dark",
+                "Fairy"
+            ]
+        },
+        {
+            "category": "Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In Fallout: New Vegas, which one of these casinos can you not play in?",
+            "correct_answer": "Lucky 38",
+            "incorrect_answers": [
+                "The Tops",
+                "Gammorah",
+                "Ultra-Luxe"
+            ]
+        },
+        {
+            "category": "Film",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which Marvel superhero did Chris Evans play prior to his role as Captain America?",
+            "correct_answer": "Human Torch",
+            "incorrect_answers": [
+                "Cyclops",
+                "Iceman",
+                "Daredevil"
+            ]
+        },
+        {
+            "category": "Gadgets",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What is the most significant side venture the popular firearms company, Remington, has pursued?",
+            "correct_answer": "Typewriters",
+            "incorrect_answers": [
+                "Blenders",
+                "Ceiling Fans",
+                "Door Knobs"
+            ]
+        },
+        {
+            "category": "Computers",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Which of these Cherry MX mechanical keyboard switches is both tactile and clicky?",
+            "correct_answer": "Cherry MX Blue",
+            "incorrect_answers": [
+                "Cherry MX Black",
+                "Cherry MX Red",
+                "Cherry MX Brown"
+            ]
+        },
+        {
+            "category": "Music",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "When did the rapper Eazy-E die?",
+            "correct_answer": "March 26, 1995",
+            "incorrect_answers": [
+                "July 11, 1992",
+                "February 14, 1993",
+                "October 21, 1994"
+            ]
+        },
+        {
+            "category": "Television",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What is the name of the race horse that Tony Soprano becomes attached to?",
+            "correct_answer": "Pie-O-My",
+            "incorrect_answers": [
+                "Man o&#039; war",
+                "Bada Bing",
+                "Honest Earnings"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "How old is the universe?",
+            "correct_answer": "13.8 Billion Years",
+            "incorrect_answers": [
+                "4.5 Billion Years",
+                "7.9 Billion Years",
+                "16.2 Billion Years"
+            ]
+        },
+        {
+            "category": "Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In the video game DOTA 2, which of these is NOT a hero?",
+            "correct_answer": "Dragon Champion",
+            "incorrect_answers": [
+                "Dark Seer",
+                "Keeper of the Light",
+                "Mirana"
+            ]
+        }
+    ]
+}
