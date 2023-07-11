@@ -12,3 +12,4 @@ var observer = new MutationObserver(function(mutations) {
 var config = { attributes: true, childList: true, characterData: true };
 // pass in the target node, as well
 observer.obesrve(target,config)
+console.log("test")
